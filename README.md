@@ -1,4 +1,5 @@
 # Chal-3
+NOTE: I did work with a tutor on this for guidance
 A password generator
 
 # Password Generator Starter Code
